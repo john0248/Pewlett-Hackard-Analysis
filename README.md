@@ -28,7 +28,14 @@ The last table created was a count of the Titles of the individuals retiring. Th
 
 ![](Data/retiring_titles.png)
 
+### Deliverable 2:
+From the retiring_titles snapshot we can see PH will lose a large population in the coming years.  As these people exit the workforce, we need to be prepared the workers behind were properly trained before taking on new responsibilities.  The HR department has decided to determine which employees would be eligible for a mentoring program.  
+There were two main criteria needed to create the mentoring list:
+1. the employees were born between January 1, 1965 to December 31, 1965 and 
+2. they were current employees.   
+Below is a snapshot of the table and the CVS file exported is in the Data folder.
 
+![](Data/mentorship_eligibilty.png)
 
 Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
@@ -39,4 +46,5 @@ Provide high-level responses to the following questions, then provide two additi
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
 
