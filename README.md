@@ -24,7 +24,7 @@ One of the first things we noticed is the duplicate names in the list with the s
 
 ![](Data/unique_titles.png)
 
-The last table created was a count of the Titles of the individuals retiring. The unique_titles table was used for the count since it had the most complete set of data.  Below is a snapshot of the unique_titles where the titles have been counted. 
+The last table created was a count of the Titles of the individuals retiring. The unique_titles table was used for the count since it had the most complete set of data.  Below is a snapshot of the retiring_titles where the titles have been counted. 
 
 ![](Data/retiring_titles.png)
 
