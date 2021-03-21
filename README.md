@@ -48,8 +48,16 @@ How many roles will need to be filled as the "silver tsunami" begins to make an 
 
 ![](Data/retiring_titles.png)
 
-We can see from the snapshot HP's 2 largest retiring titles are Senior Engineer and Senior Staff.  These two titles alone account for more than 50,000+ people.  This leads us to the next big question. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? I have placed the count of the mentoring elibable employess titles below.
+We can see from the snapshot HP's 2 largest retiring titles are Senior Engineer and Senior Staff.  These two titles alone account for more than 50,000+ people.  This leads us to the next big question. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? I have placed the count of the mentorship titles below.
 
 ![](Data/mentorship_count.png)
 
-We have far fewer numbers of employees that meet this narrowed criteria range.  Is this enough for a mentoring program? Maybe this is a good start for the mentoring program.  
+We have far fewer numbers of employees that meet this narrowed criteria range for mentors.  Is this enough for a mentoring program? The answer is most likely not.  The mentoring list is a start, but we may need to open the criteria for the program more. 
+Here are a few observations:
+1. We have NO mentoring Managers in this list.  
+2. The ratio of mentors to potential positions needing to be filled is high.  
+3. We need an understanding if all positions and titles retiring will need to be replaced and at what rate per year that might happen.
+4. Maybe expand mentoring eligibility by title and not just age?
+
+
+  
